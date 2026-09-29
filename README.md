@@ -13,8 +13,8 @@ Notebooks:
 
 First semester (Mod. A):
 
-* [Lab 0](Labs/Lab-0.IntroColab.ipynb): Introduction to Google Colab 
+* [Lab 0](Labs/Lab-0_IntroColab.ipynb): Introduction to Google Colab 
 
-* [Lab 0.1](Labs/Lab-0.1.IntroPandas.ipynb): Introduction to Pandas
+* [Lab 0.1](Labs/Lab_0.1.IntroPandas.ipynb): Introduction to Pandas
 
-* [Lab 1](Labs/Lab-1.Data_generation.ipynb): Data generation
+* [Lab 1](Labs/Lab-1_Data_generation.ipynb): Data generation
