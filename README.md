@@ -18,3 +18,6 @@ First semester (Mod. A):
 * [Lab 0.1](Labs/Lab_0.1.IntroPandas.ipynb): Introduction to Pandas
 
 * [Lab 1](Labs/Lab-1_Data_generation.ipynb): Data generation
+
+* [Lab 2](Labs/Lab-02_Linear_and_Logistic_Reg.ipynb): Linear and logistic reg. ([solved](Solutions/Lab-02_Linear_and_Logistic_Reg_Solved.ipynb))
+  
