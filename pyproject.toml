@@ -13,7 +13,13 @@ dependencies = [
     "matplotlib>=3.10,<4",
     "numpy>=2,<3",
     "pandas>=2.2,<3",
+    "scikit-learn>=1.9.1",
 ]
 
 [tool.uv]
 package = false
+
+[dependency-groups]
+dev = [
+    "jupyterlab>=4.6.4",
+]
