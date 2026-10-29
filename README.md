@@ -21,3 +21,9 @@ First semester (Mod. A):
 
 * [Lab 2](Labs/Lab-02_Linear_and_Logistic_Reg.ipynb): Linear and logistic reg. ([solved](Solutions/Lab-02_Linear_and_Logistic_Reg_Solved.ipynb))
   
+* [Lab 3](Labs/Lab-03_Regularization.ipynb): Regularization ([solved](Solutions/Lab-03_Regularization_Solved.ipynb))
+  
+* [Lab 4](Labs/Lab-04_Unsupervised.ipynb): Unsupervised Learning ([solved](Solutions/Lab-04_Unsupervised_Solved.ipynb))
+
+* [Lab 5](Labs/Lab-05_Supervised.ipynb): Supervised Learning ([solved](Solutions/Lab-05_Supervised_Solved.ipynb)) 
+  
